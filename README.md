@@ -1,11 +1,9 @@
 # DigiTools Platform
 
-DigiTools Platform is a responsive digital tools buying website built with React, Tailwind CSS, DaisyUI, and React Toastify. It showcases curated software products, allows users to add items to a cart, remove them, and clear the cart through a checkout action.
-
 ## Live Project Goals
 - Build a clean Figma-inspired marketplace interface.
 - Practice React state management with cart functionality.
-- Deliver a polished responsive UI using Tailwind CSS and DaisyUI.
+
 
 ## Technologies Used
 - React.js
@@ -13,7 +11,7 @@ DigiTools Platform is a responsive digital tools buying website built with React
 - Tailwind CSS
 - DaisyUI
 - React Toastify
-- JavaScript (ES6+)
+
 
 ## Main Features
 1. Product and cart toggle system with default product view.
